@@ -1,0 +1,45 @@
+banners:
+  - title: Profile Roles
+    subtitle: customize your FZ!
+
+  - title: Colors
+    cn: [[颜, yán], [色, sè]]
+    jp: [[色, いろ]]
+    kr: [[색상, ""]]
+
+  - title: Countries
+    cn: [[国, guó], [家, jiā]]
+    jp: [[国, くに]]
+    kr: [[나라, ""]]
+
+  - title: Language Skills
+  
+  - title: FZ Book Progress
+  
+  - title: Select Your Language(s)
+    subtitle: The journey begins here
+    cn: [[语, yǔ], [言, yán], [选, xuǎn], [择, zé]]
+    jp: [[言, げん], [語, ご], [選, せん], [択, たく]]
+    kr: [[언어, ""], [선택, ""]]
+
+  - title: Hidden Rooms
+
+  - title: Miscellaneous
+
+  - title: Japanese From Zero
+  - title: Korean From Zero
+  - title: Chinese From Zero
+  - title: German From Zero
+
+  - title: Typo Report
+    jp: [[ミス, ""], [報, ほう], [告, こく]]
+
+  - title: Welcome
+    kaji: yes
+    jp: [[ようこそ, ""]]
+    cn: [[欢, huān], [迎, yíng]]
+    kr: [[어서 오세요, ""]]
+
+  - title: The Rules
+  - title: The Team
+  - title: Read More

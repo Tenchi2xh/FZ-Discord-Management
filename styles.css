@@ -1,0 +1,99 @@
+body {
+    color: white;
+    /*background-color: #36393E;*/
+    background-color: transparent;
+    filter: drop-shadow(0 0 0.4em rgba(1, 0, 0, 0.7));
+}
+
+.main {
+    padding: 0 0.2em;
+}
+
+rt {
+    font-size: 25%;
+    color: white;
+    text-transform: lowercase;
+}
+
+ruby {
+    letter-spacing: 0.1em;
+    color: #ffff00;
+    font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans SC';
+}
+
+.sep {
+    display: inline-block;
+}
+
+.sep::after {
+    content: "·";
+    color: white;
+}
+
+.CJK {
+    margin-bottom: -0.75em;
+    font-size: 40%;
+    text-align: right;
+    margin-right: 0.5em;
+}
+
+.subtitle {
+    color: #ffff00;
+    font-weight: 800;
+    letter-spacing: 0.2em;
+    font-size: 50%;
+    margin-top: -0.5em;
+    text-align: center;
+}
+
+.FZ {
+    display: flex;
+    font-family: Raleway;
+    font-weight: 900;
+    font-size: 10em;
+    letter-spacing: -0.3rem;
+    text-transform: uppercase;
+}
+
+.FZ .cap {
+    font-family: Raleway;
+    font-weight: 800;
+    font-size: 120%;
+}
+
+.dot {
+    display: inline-block;
+    background: #ffff00;
+    width: 0.2em;
+    height: 0.2em;
+    display: inline-block;
+    border-radius: 50%;
+    margin-left: 0.05em;
+}
+
+.stick {
+    position:relative;
+    display: inline-block;
+    margin-left: -0.1em;
+    margin-bottom: 0.2em;
+    width: 0.25em;
+    height: 0.75em;
+    clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 20% 100%);
+    transform: rotate(15deg);
+}
+
+.stick::after {
+    content: "";
+    position: absolute;
+    bottom: -0.25em;
+    left: -0.025em;
+    width: 0.3em;
+    height: 0.3em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 2000px #ffff00;
+}
+
+.kaji {
+    height: 1em;
+    display: inline-block;
+}
