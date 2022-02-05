@@ -1,6 +1,6 @@
 banners:
   - title: Profile Roles
-    cn: [[定, dìng], [制, zhì]]
+    cn: [[标, biāo], [签, qiān]]
     jp: [[カスタム, ""], [化, か]]
     kr: [[맞춤화, ""]]
     subtitle: Customize your FZ!
@@ -37,28 +37,28 @@ banners:
     kr: [[밀실, ""]]
 
   - title: Miscellaneous
-    cn: [[其, qí], [他, tā]]
+    cn: [[其, qí], [它, tā]]
     jp: [[その, ""], [他, [ほか]]
     kr: [[기타, ""]]
 
   - title: Japanese From Zero
-    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [日, rì], [语, yǔ]]
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [学, xué], [日, rì], [语, yǔ]]
     jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
     kr: [[제로, ""], [부터, ""], [일본어, ""]]
 
   - title: Korean From Zero
-    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [韩, hán], [语, yǔ]]
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [学, xué], [韩, hán], [语, yǔ]]
     jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
     kr: [[제로, ""], [부터, ""], [일본어, ""]]
 
   - title: Chinese From Zero
-    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [中, zhōng], [文, wén]]
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [学, xué], [中, zhōng], [文, wén]]
     jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
     kr: [[제로, ""], [부터, ""], [일본어, ""]]
     subtitle: (coming soon)
 
   - title: German From Zero
-    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [德, dé], [语, yǔ]]
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [学, xué], [德, dé], [语, yǔ]]
     jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
     kr: [[제로, ""], [부터, ""], [일본어, ""]]
     subtitle: (coming soon)
@@ -85,6 +85,6 @@ banners:
     kr: [[우리, ""], [팀, ""]]
 
   - title: Read More
-    cn: [[和, hé], [更, gèng], [多, duō]]
+    cn: [[阅, yuè], [读, dú], [更, gèng], [多, duō]]
     jp: [[さらに, ""]]
     kr: [[더욱, ""]]
