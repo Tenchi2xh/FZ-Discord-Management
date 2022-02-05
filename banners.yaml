@@ -1,11 +1,14 @@
 banners:
   - title: Profile Roles
-    subtitle: customize your FZ!
+    cn: [[定, dìng], [制, zhì]]
+    jp: [[カスタム, ""], [化, か]]
+    kr: [[맞춤화, ""]]
+    subtitle: Customize your FZ!
 
   - title: Colors
     cn: [[颜, yán], [色, sè]]
     jp: [[色, いろ]]
-    kr: [[색상, ""]]
+    kr: [[색깔, ""]]
 
   - title: Countries
     cn: [[国, guó], [家, jiā]]
@@ -13,8 +16,14 @@ banners:
     kr: [[나라, ""]]
 
   - title: Language Skills
+    cn: [[语, yǔ], [言, yán], [能, néng], [力, lì]]
+    jp: [[言, げん], [語, ご], [能, のう], [力, りょく]]
+    kr: [[언어, ""], [능력, ""]]
   
   - title: FZ Book Progress
+    cn: [[FZ, ""], [学, xué], [习, xí], [进, jìn], [度, dù]]
+    jp: [[FZ, ""], [教, きょう], [科, か], [書,しょ], [進, しん], [歩, ぽ]]
+    kr: [[FZ, ""], [교과서, ""], [진보, ""]]
   
   - title: Select Your Language(s)
     subtitle: The journey begins here
@@ -23,18 +32,41 @@ banners:
     kr: [[언어, ""], [선택, ""]]
 
   - title: Hidden Rooms
+    cn: [[密, mì], [室, shì]]
+    jp: [[密, みっ], [室, しつ]]
+    kr: [[밀실, ""]]
 
   - title: Miscellaneous
+    cn: [[其, qí], [他, tā]]
+    jp: [[その, ""], [他, [ほか]]
+    kr: [[기타, ""]]
 
   - title: Japanese From Zero
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [日, rì], [语, yǔ]]
+    jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
+    kr: [[제로, ""], [부터, ""], [일본어, ""]]
+
   - title: Korean From Zero
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [韩, hán], [语, yǔ]]
+    jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
+    kr: [[제로, ""], [부터, ""], [일본어, ""]]
+
   - title: Chinese From Zero
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [中, zhōng], [文, wén]]
+    jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
+    kr: [[제로, ""], [부터, ""], [일본어, ""]]
     subtitle: (coming soon)
+
   - title: German From Zero
+    cn: [[从, cóng], [零, líng], [开, kāi], [始, shǐ], [的, de], [德, dé], [语, yǔ]]
+    jp: [[ゼロ, ""], [から, ""], [の, ""], [日, に], [本, ほん], [語, ご]]
+    kr: [[제로, ""], [부터, ""], [일본어, ""]]
     subtitle: (coming soon)
 
   - title: Typo Report
+    cn: [[报, bào], [告, gào], [错, cuò], [误, wù]]
     jp: [[ミス, ""], [報, ほう], [告, こく]]
+    kr: [[실수, ""], [신고, ""]]
 
   - title: Welcome
     kaji: yes
@@ -43,5 +75,16 @@ banners:
     kr: [[어서 오세요, ""]]
 
   - title: The Rules
-  - title: The Team
+    cn: [[规, guī], [则, zé]]
+    jp: [[ルール, ""]]
+    kr: [[규칙, ""]]
+
+- title: The Team
+    cn: [[团, tuán], [队, duì]]
+    jp: [[チーム, ""]]
+    kr: [[우리, ""], [팀, ""]]
+
   - title: Read More
+    cn: [[和, hé], [更, gèng], [多, duō]]
+    jp: [[さらに, ""]]
+    kr: [[더욱, ""]]
